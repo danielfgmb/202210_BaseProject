@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+img{
+  width: 500px;
+  border: 10px solid #ebebeb;
+}
+header{
+  display: flex;
+  padding: 10px;
+}
+.logo{
+  padding: 5px;
+  width: 100%;
+}
+.contenido{
+  flex: 1;
+  padding: 10px;
+  justify-content: center;
+  align-self: center;
+  border-bottom: 2px solid gray;
+}
+.contenedor{
+  align-items: center;
+  padding: 5px;
+  text-align: center;
+}
+h6{
+  margin-bottom: 0 !important;
+}
+
+.container{
+  padding-top: 15px;
+
+}
+
