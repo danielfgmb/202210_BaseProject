@@ -15,4 +15,8 @@ export class Banda {
     this.image=image;
   }
 
+
+
+
+
 }
